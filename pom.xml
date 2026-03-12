@@ -296,7 +296,7 @@
                     </includeOnlyProperties>
                     <commitIdGenerationMode>full</commitIdGenerationMode>
                     <failOnNoGitDirectory>false</failOnNoGitDirectory>
-                    <offline>true</offline>
+                    <offline>false</offline>
                 </configuration>
             </plugin>
         </plugins>
